@@ -16,7 +16,7 @@ Also, Putin's narrative was that invading Ukraine would be easy and fast. The br
 
 Even an individual person can help substantially with seemingly small things, including but not limited to:
 
-### Donate money to the Ukrane army
+### Donate money to the Ukraine army
 
 The armed forces of Ukraine are the shield between the free world and Putin's violence. Everything we can do helps keep Ukraine, Europe, and the rest of the free world safe. There are two different trustworthy sources for direct donations to the Ukrane army:
 
