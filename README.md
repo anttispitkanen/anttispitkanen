@@ -41,6 +41,10 @@ Any Russian citizen that we can reach and convince to be on the side of peace is
 * We are all parts of various communities, companies, organizations, teams, you name it. Use your leverage wherever you have it to spread the message and unite people for the good cause. There have been greate examples of e.g. companies cutting all ties to Russia, business leaders and other influential people taking a stand, even so far as [Elon Musk activating Starlink in Ukraine to stop Putin's intent of isolating Ukraine from the Internet](https://twitter.com/FedorovMykhailo/status/1497543633293266944?s=20&t=2s4MsspUqLKM_zJqmlGADA), and [Anonymous declaring a cyber war against Putin](https://twitter.com/LatestAnonPress/status/1497786715783798785).
 * Participate in peaceful demonstrations to suppor Ukraine and stand up to the war the no-one wants.
 
+### If you are building or maintaining a website
+
+I created a free to use HTML banner that you can drop at the top of your site to link your visitors to a help resource of your choice. All awareness, support, and donations help, so please consider using your platform for good: https://gist.github.com/anttispitkanen/cfc6df6b8cba3b6d02f752fc3ddf0637
+
 ### Express your support to the good people of Russia
 
 This is not their war. This is their dictator's war. We are on the same side as the good people of Russia, all in favor of peace.
