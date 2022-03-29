@@ -27,10 +27,9 @@ Countries across Europe and the rest of the world are showing their support, but
 
 ### Donate money to charities that take care of the innocent victims
 
-Unicef, Red Cross, and other established organizations have specific channels for helping the victims, some funds specially targeted to helping women and children.
+Unicef and other established organizations have specific channels for helping the victims, some funds specially targeted to helping women and children.
 
 * Unicef donations: https://www.unicef.org/emergencies/conflict-ukraine-pose-immediate-threat-children
-* Red Cross donations: https://donate.redcrossredcrescent.org/ua/donate/~my-donation?_cv=1
 * By googling you will find lots more to choose from
 
 ### Share knowledge, show that we together stand up against this
