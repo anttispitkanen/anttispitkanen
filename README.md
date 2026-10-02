@@ -1,1 +1,1 @@
-# 🇺🇦 Stand with Ukraine 🇺🇦 & 🇵🇸 Free Palestine 🇵🇸
+🇵🇸 Free Palestine 🇵🇸
